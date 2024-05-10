@@ -54,7 +54,6 @@ void search(char *pattern, char *text, int q)
 	}
     }
     printf("Number of spurious hits: %d\n", spuriousHits);
-    printf("Number of pattern occurrences found: %d\n", patternCount);
 }
 
 int main()
