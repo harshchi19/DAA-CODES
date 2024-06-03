@@ -1,7 +1,7 @@
 # Design and Analysis of Algorithms(DAA) Codes
 1)Bellman Ford Algorithm
 
-2) Dijkstra's Algorithm
+2)Dijkstra's Algorithm
 
 3)Matrix Chain Multiplication 
 
